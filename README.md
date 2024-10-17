@@ -11,7 +11,7 @@ The MiSC dataset is publicly available on Hugging Face. The adapter for EMMA's g
 
 - **[MiSC Dataset](https://huggingface.co/datasets/jihyoung/MiSC)** 
 - **[Adapter for Generation Module](https://huggingface.co/jihyoung/EMMA)** 
-- **[Retriever Module Weights](https://drive.google.com/file/d/1fu8tpraorSGQc4abFtptHBxmGzjkKM73/view?usp=sharing)** 
+- **[Retrieval Module Weights](https://drive.google.com/file/d/1fu8tpraorSGQc4abFtptHBxmGzjkKM73/view?usp=sharing)** 
 
 ## Usage
 
